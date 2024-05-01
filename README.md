@@ -1,1 +1,1 @@
-#Stickers creator for WhatsApp! (CSW)
+# Stickers creator for WhatsApp! (CSW)
